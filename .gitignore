@@ -1,3 +1,9 @@
+# csv de projet
+synop_2026.csv
+Allergie_Passages_Urgences_Actes_SOS_Medecins_dpt.csv
+Asthme_Passages_Urgences_Actes_SOS_Medecins_dpt.csv
+Bronchiolite_Passages_Urgences_Actes_SOS_Medecins_dpt.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
